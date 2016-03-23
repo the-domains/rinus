@@ -1,0 +1,28 @@
+name: rinus
+favicon: null
+layout_spectrum: 0.6048056816216558
+typography_spectrum: 0.7299974062480032
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9893567534163594
+  lightness: 0.16987842111848295
+  saturation: 0.13824756327085197
+  rhythmicContrast: 0.5974039542488754
+purpose: []
