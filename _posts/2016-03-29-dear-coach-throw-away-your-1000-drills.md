@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Posted on December 7, 2015'
-datePublished: '2016-03-29T07:09:50.413Z'
-dateModified: '2016-03-29T07:06:30.302Z'
+datePublished: '2016-03-29T19:04:19.149Z'
+dateModified: '2016-03-29T07:11:29.730Z'
 title: 'Dear Coach: Throw Away Your 1000 Drills'
 author: []
 sourcePath: _posts/2016-03-29-dear-coach-throw-away-your-1000-drills.md
