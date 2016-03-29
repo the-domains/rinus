@@ -1,5 +1,8 @@
+name: rinus
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.566595
 title: The Journey to Total Football
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0.4881848
-  lightness: 0.1698784211184829
   brandColors:
     - '#ffffff'
     - '#3f4447'
     - '#788b5e'
     - '#c8d1e0'
     - '#a8adb1'
+  brandStrength: 0.4881848
+  lightness: 0.5
+  saturation: 0
   rhythmicContrast: 0.5974039542488754
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: rinus
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.566595
-layout_spectrum: 1
+purpose: []
