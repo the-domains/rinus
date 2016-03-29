@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Cruyff on Messi. He is incomparable.
-datePublished: '2016-03-29T06:24:10.225Z'
-dateModified: '2016-03-29T06:21:29.767Z'
+datePublished: '2016-03-29T06:30:48.650Z'
+dateModified: '2016-03-29T06:28:02.507Z'
 author: []
 title: 'Cruyff: Messi- Incomparable.'
+sourcePath: _posts/2016-03-29-cruyff-messi-incomparable.md
+published: true
 authors: []
 publisher:
   name: static.goal.com
   domain: static.goal.com
   url: null
   favicon: null
-sourcePath: _posts/2016-03-29-cruyff-messi-incomparable.md
-published: true
 url: cruyff-messi-incomparable/index.html
 _context: 'http://schema.org'
 _type: Article
